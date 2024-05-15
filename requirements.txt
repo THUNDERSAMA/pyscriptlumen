@@ -15,10 +15,6 @@ PySocks==1.7.1
 pytesseract==0.3.10
 requests==2.31.0
 retina-face==0.0.15
-tensorboard==2.16.2
-tensorboard-data-server==0.7.2
 tensorflow==2.16.1
-tensorflow-intel==2.16.1
-termcolor==2.4.0
-tf_keras==2.16.0
+
 
